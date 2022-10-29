@@ -1,0 +1,17 @@
+@media (max-width: 576px) {
+	.card {
+		max-width: 100%;
+	}
+
+	img {
+		max-width: 100%;
+	}
+}
+
+body {
+	background-color: beige;
+}
+
+.card {
+	border: double;
+}
